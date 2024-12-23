@@ -1,0 +1,16 @@
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ParkingLot
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ParkingLot.deps.json
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ParkingLot.runtimeconfig.json
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ParkingLot.runtimeconfig.dev.json
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ParkingLot.dll
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ref/ParkingLot.dll
+/home/aldo/Projects/ParkingLot/ParkingLot/bin/Debug/net5.0/ParkingLot.pdb
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.csproj.AssemblyReference.cache
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.AssemblyInfoInputs.cache
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.AssemblyInfo.cs
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.csproj.CoreCompileInputs.cache
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.dll
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ref/ParkingLot.dll
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.pdb
+/home/aldo/Projects/ParkingLot/ParkingLot/obj/Debug/net5.0/ParkingLot.genruntimeconfig.cache
